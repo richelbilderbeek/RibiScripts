@@ -1,7 +1,8 @@
 #!/bin/bash
 
+apt-get install git 
+
 apt-get install \
-  git \
   vim \
   qtcreator \
   qt4-demos \
@@ -22,7 +23,6 @@ apt-get install \
   cmake \
   flex \
   intltool \
-  libtool* \
   pkg-config \
   scons \
   tidy \
@@ -34,10 +34,7 @@ apt-get install \
   openjdk-7-jre \
   libasound2-dev \
   libsdl2-dev \
-  libbullet-dev
-
-#From MXE
-apt-get install \
+  libbullet-dev \
   autoconf \
   automake \
   autopoint \
@@ -47,8 +44,6 @@ apt-get install \
   cmake \
   flex \
   gettext \ 
-  git \
-  gperf \
   intltool \
   libffi-dev \
   libtool \
@@ -64,4 +59,7 @@ apt-get install \
   sed \
   unzip \
   wget \
+  p7zip-full \
   xz-utils 
+
+apt-get install gperf
