@@ -21,6 +21,7 @@ apt-get install \
   'libasound2-dev' \
   'libboost-all-dev' \
   'libbullet-dev' \
+  'libcurl4-openssl-dev' \
   'libffi-dev' \
   'libgsl0-dev' \
   'libltdl-dev' \
