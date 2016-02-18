@@ -1,45 +1,6 @@
 #!/bin/bash
 
 apt-get install \
-  'autopoint' \
-  'cowsay' \
-  'espeak' \
-  'git' \
-  'gperf' \
-  'p7zip-full'\
-  'gettext' \
-  'vim' \
-  'qtcreator' \
-  'qt4-demos' \
-  'qt4-doc' \
-  'qt4-doc-html' \
-  'qt5-doc' \
-  'qt5-doc-html' \
-  'qtbase5-examples' \
-  'qtbase5-doc-html' \
-  'tmux' \
-  'make' \
-  'g++' \
-  'libboost-all-dev' \
-  'witty-dev' \
-  'libqwt-dev' \
-  'autoconf' \
-  'bison' \
-  'cmake' \
-  'flex' \
-  'intltool' \
-  'pkg-config' \
-  'scons' \
-  'tidy' \
-  'libopencv-dev' \
-  'lynx' \
-  'lyx' \
-  'libxtst-dev' \
-  'libgsl0-dev' \
-  'openjdk-7-jre' \
-  'libasound2-dev' \
-  'libsdl2-dev' \
-  'libbullet-dev' \
   'autoconf' \
   'automake' \
   'autopoint' \
@@ -47,21 +8,54 @@ apt-get install \
   'bison' \
   'bzip2' \
   'cmake' \
+  'cowsay' \
+  'curl' \
+  'espeak' \
   'flex' \
+  'flex' \
+  'g++' \
+  'gettext' \
+  'git' \
+  'gperf' \
   'intltool' \
+  'libasound2-dev' \
+  'libboost-all-dev' \
+  'libbullet-dev' \
   'libffi-dev' \
-  'libtool' \
+  'libgsl0-dev' \
   'libltdl-dev' \
+  'libopencv-dev' \
+  'libqwt-dev' \
+  'libsdl2-dev' \
   'libssl-dev' \
+  'libtool' \
   'libxml-parser-perl' \
+  'libxtst-dev' \
+  'lynx' \
+  'lyx' \
   'make' \
+  'make' \
+  'openjdk-8-jre' \
   'openssl' \
+  'p7zip-full'\
   'patch' \
   'perl' \
   'pkg-config' \
+  'qt4-demos' \
+  'qt4-doc' \
+  'qt4-doc-html' \
+  'qt5-doc' \
+  'qt5-doc-html' \
+  'qtbase5-doc-html' \
+  'qtbase5-examples' \
+  'qtcreator' \
   'r-base' \
   'scons' \
   'sed' \
+  'tidy' \
+  'tmux' \
   'unzip' \
+  'vim' \
   'wget' \
-  'xz-utils' 
+  'witty-dev' \
+  'xz-utils'
