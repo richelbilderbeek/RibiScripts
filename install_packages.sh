@@ -18,6 +18,7 @@ apt-get install \
   'git' \
   'gperf' \
   'intltool' \
+  'kolourpaint4' \
   'libasound2-dev' \
   'libboost-all-dev' \
   'libbullet-dev' \
