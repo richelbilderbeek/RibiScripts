@@ -12,7 +12,6 @@ apt-get install \
   'curl' \
   'espeak' \
   'flex' \
-  'flex' \
   'g++' \
   'gettext' \
   'git' \
@@ -35,7 +34,6 @@ apt-get install \
   'libxtst-dev' \
   'lynx' \
   'lyx' \
-  'make' \
   'make' \
   'openjdk-8-jre' \
   'openssl' \
