@@ -50,7 +50,6 @@ apt-get install \
   'qtbase5-doc-html' \
   'qtbase5-examples' \
   'qtdeclarative5-dev' \
-  'qtquick1-5-dev-tools' \
   'qtcreator' \
   'r-base' \
   'scons' \
